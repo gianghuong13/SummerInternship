@@ -1,0 +1,27 @@
+.body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.layout {
+    display: flex;
+    height: 100vh;
+}
+
+.sidebar {
+    width: 200px;
+    background-color: blueviolet;
+    color: aquamarine;
+    padding: 20px;
+}
+
+.header {
+    height: 100px;
+    background-color: blanchedalmond;
+    color: blue;
+    padding: 30px;
+}
+
+.content {
+    padding: 20px;
+}
